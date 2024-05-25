@@ -34,3 +34,9 @@ No category function, only tag function
 书本的作者信息是需要直接填写在文章内容中，您可以在后台自行排版
 所有发布人定义为分享者
 没有分类功能，仅有标签功能
+
+## Page preview image 网页预览图
+![image](https://github.com/Daniel-Leestar/wptheme-leelib/blob/main/Preview%20Images/home.jpeg)
+![image](https://github.com/Daniel-Leestar/wptheme-leelib/blob/main/Preview%20Images/search.jpeg)
+![image](https://github.com/Daniel-Leestar/wptheme-leelib/blob/main/Preview%20Images/single.jpeg)
+![image](https://github.com/Daniel-Leestar/wptheme-leelib/blob/main/Preview%20Images/tag.jpeg)
